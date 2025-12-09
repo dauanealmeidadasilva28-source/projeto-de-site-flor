@@ -1,11 +1,17 @@
-body {
+ody {
     font-family: Arial, sans-serif;
     background-color: #eef0f3;
     text-align: center;
     padding: 20px;
-
 }
-
+h1 {
+    background-color: #229206;
+    border: 16px solid #229206;
+    border-radius: 30px;
+    color: rgb(165, 245, 112);
+    padding: 10px 0;
+    text-align: left;
+}
 nav {
     padding: 10px;
     text-align: right;
@@ -26,8 +32,4 @@ img{
     height: 300px;
     border: 2px solid #229206;
     border-radius: 8px;
-}
-h1 {
-    color: #229206;
-    text-align: left;
 }
