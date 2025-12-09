@@ -1,0 +1,11 @@
+ody{
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #229206;
+    border-radius: 8px;
+}
